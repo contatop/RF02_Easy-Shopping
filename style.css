@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;900&family=Oswald&display=swap');
+
+* {
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: 400;
+    color: #5D5D7D;
+
+}
+
+.wrapper {
+    height: 100vh;
+    width: 100vw;
+}
+
+.container-left {
+    display: inline-block;
+    width: 60%;
+    padding-left: 136px;
+    margin-top: 20%;
+}
+
+.container-right {
+    display: inline-block;
+    background-color: rgba(93,93,125,0.16);
+    height: 100vh;
+    width: 40%;
+    position: absolute;
+    
+}
+
+img {
+    position: relative;
+    top: 18%;
+    right: 130px; 
+}
+
+h1 {
+    font-size: 70px;
+    line-height: 80px;
+}
+
+p {
+    font-size: 28px;
+    line-height: 48px;
+    width: 540px;
+    opacity: .6;
+    margin: 15px 0;
+}
+
+button {
+    width: 269px;
+    height: 62px;
+    font-size: 24px;
+    color: #fff;
+    border: none;
+    background:#9499EA;
+    box-shadow: rgba(148, 153, 234, 1);
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: .8;
+}
+
+button:active {
+    color: red;
+    font-weight: bold;
+}
+
+a {
+    font-size: 28px;
+    line-height: 41px;
+    margin-right: 41px;
+    color: #5D5D7D;
+    cursor: pointer;
+}
+
+a:nth-child(2) {
+    opacity: .4;
+}
+
+a:active {
+    color: red;
+}
+
+
+@media screen and (max-width: 900px) {
+    .container-left {
+        width: 100%;
+        height: 50%;
+        margin: 0;
+        padding: 0; 
+}
+    .container-right {
+        display: block;
+        height: auto;
+        width: 100%;
+        position: static;
+    }
+
+    img {
+        position: static;
+        max-width: 90%;
+        margin-top: 50px;
+    }
+
+    header {
+        display: none;
+    }
+
+    h1 {
+        font-size: 36px;
+        font-weight: 400;
+        line-height: 52px;
+        width: auto;
+        margin: 58px 50px 0 58px;
+        text-align: center;
+    }
+    
+    p {
+    margin: 15px 40px;
+    width: auto;
+    text-align: center;
+    font-size: 14px;
+    line-height: 24px;
+    }
+
+   button {
+    margin: 0 auto;
+    display: block;
+    margin-top: 15px;
+    height: 50px;
+    }
+}
