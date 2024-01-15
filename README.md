@@ -16,3 +16,8 @@ Versão para celular iphone 12 pro max, sendo utilizado para criação com: @med
 <br>
 <br>
 <img src="https://github.com/contatop/Easy-Shopping/blob/main/assets/Capturar2.PNG?raw=true">
+
+Connect with me:
+<br>
+<br>
+<a href="https://www.linkedin.com/in/ricardo-ferreira-77a22a201/" target="_blank"><img src="https://imagensfree.com.br/wp-content/uploads/2022/06/icone-linkedin-branco-png-5.png" alt="logo-linkedin" height="40"/></a>
