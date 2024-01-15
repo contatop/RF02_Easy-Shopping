@@ -11,7 +11,7 @@ Versão para computador, sendo as teclogias utilizadas para criação:
 <img src="https://github.com/contatop/Easy-Shopping/blob/main/assets/Capturar1.PNG?raw=true" alt="imagem-shopping" heigth="500"/>
 <br>
 <br>
-Versão para celular iphone 12 pro max, sendo utilizadas para criação @media screen and:
+Versão para celular iphone 12 pro max, sendo utilizado para criação com: @media screen and:
 <br>
 <br>
 <br>
