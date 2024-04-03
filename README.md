@@ -17,6 +17,8 @@ Versão para celular iphone 12 pro max, sendo utilizado para criação com: @med
 <br>
 <img src="https://github.com/contatop/Easy-Shopping/blob/main/assets/Capturar2.PNG?raw=true">
 
+link do projeto: <a>https://contatop.github.io/RF02_Easy-Shopping/</a>
+
 Connect with me:
 <br>
 <br>
